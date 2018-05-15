@@ -1,0 +1,23 @@
+{"products" :[
+{"id":1,"name":"Skink, african","category":"Yellow"},
+{"id":2,"name":"Springhare","category":"Mauv"},
+{"id":3,"name":"Baleen whale","category":"Mauv"},
+{"id":4,"name":"Asian elephant","category":"Mauv"},
+{"id":5,"name":"Red-knobbed coot","category":"Blue"},
+{"id":6,"name":"Swan, black","category":"Violet"},
+{"id":7,"name":"Common palm civet","category":"Yellow"},
+{"id":8,"name":"Tarantula, salmon pink bird eater","category":"Fuscia"},
+{"id":9,"name":"Porcupine, prehensile-tailed","category":"Turquoise"},
+{"id":10,"name":"African red-eyed bulbul","category":"Red"},
+{"id":11,"name":"Jaguarundi","category":"Pink"},
+{"id":12,"name":"Groundhog","category":"Green"},
+{"id":13,"name":"Bee-eater, nubian","category":"Blue"},
+{"id":14,"name":"Black-cheeked waxbill","category":"Teal"},
+{"id":15,"name":"Squirrel, uinta ground","category":"Violet"},
+{"id":16,"name":"Blacksmith plover","category":"Puce"},
+{"id":17,"name":"Boa, cook's tree","category":"Red"},
+{"id":18,"name":"Loris, slender","category":"Maroon"},
+{"id":19,"name":"Tiger cat","category":"Yellow"},
+{"id":20,"name":"Dog, black-tailed prairie","category":"Orange"}
+]
+}
